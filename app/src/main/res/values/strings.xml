@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoBdsqlite</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="mostrar">MOSTRAR</string>
+    <string name="borrar">BORRAR</string>
+</resources>
